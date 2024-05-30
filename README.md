@@ -1,7 +1,8 @@
 # Master Thesis Interviews: Software Integration Testing for Autonomous Driving: Requirement Analysis, Challenges and Approaches
 
-This repository contains all publicly available artifacts related to a qualitative interview analysis in the context of a mastert thesis about 
-requirements, challenges, and approaches in software integration testing for autonomous driving
+This repository contains all publicly available artifacts related to a qualitative interview analysis in the context of a master thesis about 
+requirements, challenges, and approaches in software integration testing for autonomous driving. 
+The thesis was commenced on 3 December 2023 and was completed on 3 June 2024.
 
 ## Research Questions
 

@@ -15,4 +15,5 @@ requirements?
 
 ## Interview Artifacts and Results
 
-* [interview basic guide](https://github.com/tager99/master-thesis-integration-testing-interviews/blob/main/basic_guide.md)
+* [interview basic guide](basic_guide.md)
+* [interview protocols](interview_protocols/README.md)
